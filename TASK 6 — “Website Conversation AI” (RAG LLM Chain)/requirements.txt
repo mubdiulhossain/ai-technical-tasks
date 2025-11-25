@@ -1,0 +1,5 @@
+flask>=2.3
+sentence-transformers>=2.2
+faiss-cpu>=1.7
+llama-cpp-python>=0.1.77
+numpy>=1.23

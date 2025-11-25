@@ -1,0 +1,10 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Models and large files
+**/models/.cache/
+**/models/*.gguf
